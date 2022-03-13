@@ -1,0 +1,1 @@
+npm install mongoose-unique-validation to validate eg if emial registered twice
