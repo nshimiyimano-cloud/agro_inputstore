@@ -1,0 +1,4 @@
+{
+    "jwtoken":"agro-inputstore_jwtPrivateKey",
+    "db":"mongodb://localhost/agro-inputstore_tests"
+  }

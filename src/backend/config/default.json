@@ -1,0 +1,5 @@
+{
+  "name":"Agro Input Store",
+  "jwtoken":"agro-inputstore-json-webtoken",
+  "db":"mongodb://localhost/agro-inputstore"
+}
